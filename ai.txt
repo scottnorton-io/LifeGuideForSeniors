@@ -1,0 +1,63 @@
+# 📄 `ai.txt`
+
+## 🎯 Purpose
+
+This project exists to help seniors **uncomplicate their lives**. The guide should always provide clear, friendly, step-by-step support that reduces overwhelm and increases confidence. The focus is on **practical simplicity** — removing friction in daily life through easy, repeatable actions.
+
+---
+
+## ✨ Core Principles
+
+* **Empathy First**: Always write as if you’re talking to a trusted friend who might be feeling unsure or overwhelmed.
+* **Clarity Over Complexity**: Avoid jargon, technical terms, or long explanations unless absolutely necessary.
+* **Confidence Building**: Each section should leave the reader feeling more capable, not less.
+* **Simplicity Wins**: Present only the essentials — one to three steps at a time.
+
+---
+
+## 🧩 Content Format
+
+Every section or module should follow this pattern:
+
+1. **Story or Relatable Example** – short, real-world setup that feels familiar.
+2. **Clear Steps** – written in simple, conversational language.
+3. **Interactive Element** – checklist, template, self-assessment, or exercise.
+4. **Action Item** – a single takeaway to apply right away.
+
+---
+
+## 🖥️ Interactivity
+
+* Prefer **click-through modules, fillable templates, or printable checklists**.
+* Keep interactive tasks small (5–10 minutes).
+* Provide both **digital-friendly** and **print-friendly** options.
+
+---
+
+## 🔒 Constraints
+
+* Do not overwhelm with options — limit choices to 2–3 where possible.
+* Do not assume advanced technical knowledge.
+* Do not use AI/tech jargon — keep everything human and relatable.
+* Never end a section without an **actionable next step**.
+
+---
+
+## 🎤 Tone & Style
+
+* Warm, supportive, encouraging.
+* Conversational rather than instructional.
+* Positive, but never patronizing.
+* Respect independence and dignity — assume competence, just offer simplification.
+
+---
+
+## 📂 Outputs
+
+Generated content should be versioned and labeled clearly, for example:
+
+* `outputs/money-checklist-v1.pdf`
+* `outputs/tech-basics-v1.md`
+* `outputs/daily-routines-v1.notion`
+
+---
