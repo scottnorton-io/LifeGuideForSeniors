@@ -24,6 +24,7 @@ Separate, versioned files that refine or expand the main instructions. These all
 * `addendum-health-tracker-v1.md` → How to structure medication/energy tracking modules.
 * `addendum-money-v1.md` → Budget templates, subscription reviews, and autopay walkthroughs.
 * `addendum-declutter-v1.md` → Make living spaces easier to manage, safer, and more enjoyable without overwhelm.
+* `addendum-relationships-joy-v1.md` → Conversation prompts and gratitude exercises to spark connection.
 * `addendum-style-v1.md` → Narrative guidance: always open with a relatable story, then steps, then action item.
 
 ---
