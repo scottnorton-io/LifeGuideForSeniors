@@ -20,10 +20,10 @@ Separate, versioned files that refine or expand the main instructions. These all
 
 **Examples:**
 
-* `addendum-tech-simplification-v1.txt` → Special instructions for tech-related sections (passwords, video calls, device use).
-* `addendum-health-tracker-v1.txt` → How to structure medication/energy tracking modules.
-* `addendum-money-v1.txt` → Budget templates, subscription reviews, and autopay walkthroughs.
-* `addendum-style-v1.txt` → Narrative guidance: always open with a relatable story, then steps, then action item.
+* `addendum-tech-simplification-v1.md` → Special instructions for tech-related sections (passwords, video calls, device use).
+* `addendum-health-tracker-v1.md` → How to structure medication/energy tracking modules.
+* `addendum-money-v1.md` → Budget templates, subscription reviews, and autopay walkthroughs.
+* `addendum-style-v1.md` → Narrative guidance: always open with a relatable story, then steps, then action item.
 
 ---
 
